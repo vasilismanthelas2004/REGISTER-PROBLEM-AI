@@ -1,0 +1,20 @@
+19, 158
+increase 10 2
+double 11 7
+square 22 117
+increase 484 2
+increase 485 2
+increase 486 2
+increase 487 2
+increase 488 2
+increase 489 2
+increase 490 2
+increase 491 2
+increase 492 2
+increase 493 2
+increase 494 2
+increase 495 2
+increase 496 2
+increase 497 2
+increase 498 2
+increase 499 2

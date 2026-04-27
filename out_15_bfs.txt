@@ -1,0 +1,7 @@
+6, 7509
+square 2 2
+increase 4 2
+double 5 4
+square 10 24
+square 100 2476
+double 10000 5001

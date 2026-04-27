@@ -1,0 +1,14 @@
+13, 66
+increase 5 2
+double 6 4
+increase 12 2
+square 13 40
+decrease 169 2
+decrease 168 2
+decrease 167 2
+decrease 166 2
+decrease 165 2
+decrease 164 2
+decrease 163 2
+decrease 162 2
+decrease 161 2

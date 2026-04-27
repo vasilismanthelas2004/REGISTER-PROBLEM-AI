@@ -1,0 +1,10 @@
+9, 18
+increase 1 2
+increase 2 2
+increase 3 2
+increase 4 2
+increase 5 2
+increase 6 2
+increase 7 2
+increase 8 2
+increase 9 2

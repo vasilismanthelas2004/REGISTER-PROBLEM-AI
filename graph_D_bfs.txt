@@ -1,0 +1,16 @@
+15, 71316
+increase 10 2
+square 11 29
+increase 121 2
+double 122 62
+increase 244 2
+square 245 14946
+half 60025 15008
+half 30012 7504
+half 15006 3753
+half 7503 1877
+decrease 3751 2
+double 3750 1876
+double 7500 3751
+double 15000 7501
+double 30000 15001

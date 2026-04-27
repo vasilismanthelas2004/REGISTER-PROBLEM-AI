@@ -1,0 +1,3 @@
+2, 65
+square 4 4
+square 16 61

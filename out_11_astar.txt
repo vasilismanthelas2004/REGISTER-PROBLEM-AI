@@ -1,0 +1,8 @@
+7, 2512
+increase 45 2
+increase 46 2
+increase 47 2
+increase 48 2
+increase 49 2
+double 50 26
+square 100 2476

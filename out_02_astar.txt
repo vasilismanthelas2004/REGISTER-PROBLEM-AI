@@ -1,0 +1,5 @@
+4, 31
+root 100 24
+decrease 10 2
+root 9 3
+half 3 2

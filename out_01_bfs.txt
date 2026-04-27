@@ -1,0 +1,5 @@
+4, 10
+double 1 2
+square 2 2
+increase 4 2
+double 5 4

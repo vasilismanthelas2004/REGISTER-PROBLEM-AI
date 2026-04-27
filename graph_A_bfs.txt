@@ -1,0 +1,11 @@
+10, 981
+increase 10 2
+square 11 29
+increase 121 2
+increase 122 2
+increase 123 2
+increase 124 2
+double 125 64
+double 250 126
+double 500 251
+double 1000 501

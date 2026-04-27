@@ -1,0 +1,11 @@
+10, 509
+decrease 50 2
+root 49 12
+increase 7 2
+square 8 15
+decrease 64 2
+double 63 33
+decrease 126 2
+double 125 64
+double 250 126
+double 500 251

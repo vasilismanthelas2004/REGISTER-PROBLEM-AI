@@ -1,0 +1,6 @@
+5, 83
+double 5 4
+double 10 6
+double 20 11
+double 40 21
+double 80 41

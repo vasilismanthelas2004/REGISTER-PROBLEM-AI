@@ -1,0 +1,16 @@
+15, 24997
+square 10 24
+decrease 100 2
+decrease 99 2
+double 98 50
+double 196 99
+decrease 392 2
+double 391 197
+double 782 392
+decrease 1564 2
+double 1563 783
+decrease 3126 2
+double 3125 1564
+double 6250 3126
+double 12500 6251
+double 25000 12501

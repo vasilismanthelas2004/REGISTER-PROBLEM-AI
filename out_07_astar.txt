@@ -1,0 +1,3 @@
+2, 5
+square 3 3
+increase 9 2

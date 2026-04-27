@@ -1,0 +1,9 @@
+8, 16
+decrease 3 2
+double 2 2
+increase 4 2
+increase 5 2
+increase 6 2
+increase 7 2
+increase 8 2
+increase 9 2

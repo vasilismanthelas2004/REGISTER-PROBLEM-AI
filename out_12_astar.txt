@@ -1,0 +1,6 @@
+5, 2507
+root 10000 2476
+root 100 24
+decrease 10 2
+root 9 3
+decrease 3 2

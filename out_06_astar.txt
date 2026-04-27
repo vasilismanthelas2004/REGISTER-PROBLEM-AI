@@ -1,0 +1,7 @@
+6, 34
+decrease 15 2
+decrease 14 2
+decrease 13 2
+decrease 12 2
+decrease 11 2
+square 10 24

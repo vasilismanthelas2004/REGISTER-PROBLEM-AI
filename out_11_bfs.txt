@@ -1,0 +1,6 @@
+5, 2522
+half 45 13
+half 22 7
+decrease 11 2
+square 10 24
+square 100 2476

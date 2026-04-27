@@ -1,0 +1,5 @@
+4, 45
+half 15 5
+square 7 12
+increase 49 2
+double 50 26
